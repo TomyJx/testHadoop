@@ -1,0 +1,8 @@
+com\jiyx\test\fs\HDFSDemo.class
+com\jiyx\test\mapred\mapper\WordCountMapper.class
+com\jiyx\test\rpc\Bizable.class
+com\jiyx\test\mapred\job\WordCount.class
+com\jiyx\test\mapred\reducer\WordCountReduce.class
+com\jiyx\test\rpc\RPCClient.class
+com\jiyx\test\App.class
+com\jiyx\test\rpc\RPCServer.class
